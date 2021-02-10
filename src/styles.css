@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+     background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.freecreatives.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmazing-Road-Background-For-Free1.jpg&f=1&nofb=1');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
